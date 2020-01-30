@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app) -->
+    <color name="colorPrimary">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="background">#FFF7DA</color>
+
+    <!-- Background color for the tab -->
+    <color name="tab_foreground">#A8A19E</color>
+
+     <!-- Background color for number -->
+    <color name="number">#FD8E09</color>
+
+    <!-- Background color for family -->
+    <color name="family">#379237</color>
+
+    <!-- Background color for color -->
+    <color name="color">#8800A0</color>
+
+    <!-- Background color for phrase -->
+    <color name="phrase">#16AFCA</color>
+
+</resources>
